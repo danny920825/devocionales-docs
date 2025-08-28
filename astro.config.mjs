@@ -27,18 +27,7 @@ export default defineConfig({
         {
           label: "Devocionales",
           autogenerate: { directory: "devocionales" },
-
-          // [
-          //   {
-          //     label: "Ser un reflejo del Padre",
-          //     slug: "ser-un-reflejo-del-padre",
-          //   },
-          // ],
         },
-        // {
-        //   label: "Reference",
-        //   autogenerate: { directory: "reference" },
-        // },
       ],
     }),
   ],
